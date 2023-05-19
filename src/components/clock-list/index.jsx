@@ -1,5 +1,7 @@
+import React from 'react';
+
 const ClockList = () => {
-    return <h1>I am a Clock List</h1>
-}
+	return <div>ClockList Component</div>;
+};
 
 export default ClockList;
